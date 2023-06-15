@@ -1,9 +1,9 @@
 #ifndef CALCULATOR_H
 #define CALCULATOR_H
 
-double addition(const double x, const double y);
-double subtract(const double x, const double y);
-double multiply(const double x, const double y);
-double divide(const double x, const double y);
+static double addition(const double x, const double y);
+static double subtract(const double x, const double y);
+static double multiply(const double x, const double y);
+static double divide(const double x, const double y);
 
 #endif

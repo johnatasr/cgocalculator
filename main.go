@@ -1,6 +1,6 @@
 package main
 
-// #include "calculator.h"
+// #include "calculator.c"
 import "C"
 
 import (
